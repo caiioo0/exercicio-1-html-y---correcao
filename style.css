@@ -1,6 +1,16 @@
-a{
+.linkA{
     text-decoration: none;
     color: lightblue;
+}
+
+.linkB{
+    text-decoration: none;
+    color: red  ;
+}
+
+.linkC:hover{
+    text-decoration: none;
+    color: yellow;
 }
 
 p{
