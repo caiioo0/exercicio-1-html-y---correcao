@@ -1,5 +1,11 @@
 a{
     text-decoration: none;
-    color: lightblue
-    ;
+    color: lightblue;
+}
+
+p{
+    background-color: lightblue;
+    padding: 0.5rem 1rem;
+    margin: 0rem;
+    display: flex;
 }
